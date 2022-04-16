@@ -1,0 +1,43 @@
+@charset "utf-8";
+// ====================================
+// 共通で使う変数を設定
+// ====================================
+// font-size
+$fs-ttl: 3rem;
+
+//base-size
+$base-size: 5;
+
+// color
+$base-glay: #b5b5b5;
+$base-black: #333;
+$base-green: #64ac3b;
+$base-blue: #53a8c8;
+
+$fc-base: #555;
+$fc-weak: #a0a0a0;
+$fc-strong: #ff6633;
+$fc-link: #555;
+$fc-hover: #a0a0a0;
+
+
+//breakPoint
+$break-point: 767px;
+$break-point-sp: 375px;
+
+
+//width
+$minWidth: 100vw;
+$maxWidth: 100vw;
+
+//transition 動き
+$linear: .1s linear;
+
+
+//font-weight
+$fw-thin: 200;
+$fw-light: 300;
+$fw-regular: 400;
+$fw-medium: 500;
+$fw-bold: 700;
+$fw-black: 900;
